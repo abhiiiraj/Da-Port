@@ -1,0 +1,11 @@
+# Ignore Power BI cache and temp files
+*.pbix~
+*.tmp
+*.bak
+
+# VS Code settings (if used)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
